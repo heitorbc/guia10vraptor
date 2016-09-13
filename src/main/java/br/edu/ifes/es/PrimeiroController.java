@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package br.gov.es.cb.sdro;
+package br.edu.ifes.es;
 
 import br.com.caelum.vraptor.Controller;
 import br.com.caelum.vraptor.Get;
